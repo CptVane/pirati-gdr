@@ -1,0 +1,207 @@
+[
+  "acrobazia": {
+    "name": "Acrobazia ",
+    "att": "agi",
+    "value ": 0
+  },
+  "affascinare": {
+    "name": "Affascinare ",
+    "att": "asc",
+    "value ": 0
+  },
+  "affinita _animale": {
+    "name": "Affinità Animale ",
+    "att": "asc",
+    "value ": 0
+  },
+  "armi_corte": {
+    "name": "Armi corte",
+    "att": "mis",
+    "value ": 0
+  },
+  "armi_da_fuoco_(fucili)": {
+    "name": "Armi da fuoco (Fucili)",
+    "att": "bal",
+    "value ": 0
+  },
+  "armi_da_fuoco_(pistole)": {
+    "name": "Armi da fuoco (Pistole)",
+    "att": "bal",
+    "value ": 0
+  },
+  "armi_da_tiro": {
+    "name": "Armi da tiro",
+    "att": "bal",
+    "value ": 0
+  },
+  "armi_lunghe": {
+    "name": "Armi lunghe",
+    "att": "mis",
+    "value ": 0
+  },
+  "armi_pesanti": {
+    "name": "Armi pesanti",
+    "att": "mis",
+    "value ": 0
+  },
+  "arrampicarsi": {
+    "name": "Arrampicarsi ",
+    "att": "agi",
+    "value ": 0
+  },
+  "autocontrollo": {
+    "name": "Autocontrollo",
+    "att": "ego",
+    "value ": 0
+  },
+  "botanica": {
+    "name": "Botanica",
+    "att": "ego",
+    "value ": 0
+  },
+  "cannoni": {
+    "name": "Cannoni",
+    "att": "bal",
+    "value ": 0
+  },
+  "carpenteria": {
+    "name": "Carpenteria",
+    "att": "man",
+    "value ": 0
+  },
+  "cavalcare": {
+    "name": "Cavalcare ",
+    "att": "cos",
+    "value ": 0
+  },
+  "empatia": {
+    "name": "Empatia",
+    "att": "asc",
+    "value ": 0
+  },
+  "espressione_artistica": {
+    "name": "Espressione artistica",
+    "att": "asc",
+    "value ": 0
+  },
+  "falsificare": {
+    "name": "Falsificare ",
+    "att": "man",
+    "value ": 0
+  },
+  "furtivita": {
+    "name": "Furtività ",
+    "att": "agi",
+    "value ": 0
+  },
+  "intimidire": {
+    "name": "Intimidire ",
+    "att": "asc",
+    "value ": 0
+  },
+  "lavorazione_del_metallo": {
+    "name": "Lavorazione del Metallo",
+    "att": "man",
+    "value ": 0
+  },
+  "leggende": {
+    "name": "Leggende ",
+    "att": "ego",
+    "value ": 0
+  },
+  "letteratura": {
+    "name": "Letteratura",
+    "att": "ego",
+    "value ": 0
+  },
+  "manomettere": {
+    "name": "Manomettere",
+    "att": "man",
+    "value ": 0
+  },
+  "medicina": {
+    "name": "Medicina",
+    "att": "man",
+    "value ": 0
+  },
+  "navigare": {
+    "name": "Navigare",
+    "att": "ego",
+    "value ": 0
+  },
+  "nuotare": {
+    "name": "Nuotare ",
+    "att": "cos",
+    "value ": 0
+  },
+  "occultismo": {
+    "name": "Occultismo ",
+    "att": "ani",
+    "value ": 0
+  },
+  "percepire": {
+    "name": "Percepire",
+    "att": "ego",
+    "value ": 0
+  },
+  "rapidita_di_mano": {
+    "name": "Rapidità di mano",
+    "att": "man",
+    "value ": 0
+  },
+  "resistenza": {
+    "name": "Resistenza",
+    "att": "cos",
+    "value ": 0
+  },
+  "rissa": {
+    "name": "Rissa",
+    "att": "cos",
+    "value ": 0
+  },
+  "schivare": {
+    "name": "Schivare ",
+    "att": "agi",
+    "value ": 0
+  },
+  "scienze": {
+    "name": "Scienze",
+    "att": "ego",
+    "value ": 0
+  },
+  "sesto_senso": {
+    "name": "Sesto senso",
+    "att": "ani",
+    "value ": 0
+  },
+  "sopravvivenza": {
+    "name": "Sopravvivenza ",
+    "att": "man",
+    "value ": 0
+  },
+  "spiritualita": {
+    "name": "Spiritualità",
+    "att": "ani",
+    "value ": 0
+  },
+  "storia_dell_arte": {
+    "name": "Storia dell'Arte",
+    "att": "ego",
+    "value ": 0
+  },
+  "torturare": {
+    "name": "Torturare",
+    "att": "man",
+    "value ": 0
+  },
+  "travestimento": {
+    "name": "Travestimento",
+    "att": "asc",
+    "value ": 0
+  },
+  "volonta": {
+    "name": "Volontà",
+    "att": "ani",
+    "value ": 0
+  }
+]
