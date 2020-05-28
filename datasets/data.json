@@ -3,84 +3,100 @@
     {
       "id": "ego",
       "name": "Ego",
-      "value": 0
+      "value": 0,
+      "desc": null
     },
     {
       "id": "man",
       "name": "Manualità",
-      "value": 0
+      "value": 0,
+      "desc": null
     },
     {
       "id": "asc",
       "name": "Ascendente",
-      "value": 0
+      "value": 0,
+      "desc": null
     },
     {
       "id": "cos",
       "name": "Costituzione",
-      "value": 0
+      "value": 0,
+      "desc": null
     },
     {
       "id": "agi",
       "name": "Agilità",
-      "value": 0
+      "value": 0,
+      "desc": null
     },
     {
       "id": "ani",
       "name": "Anima",
-      "value": 0
+      "value": 0,
+      "desc": null
     },
     {
       "id": "bal",
       "name": "Balistica",
-      "value": 0
+      "value": 0,
+      "desc": null
     },
     {
       "id": "mis",
       "name": "Mischia",
-      "value": 0
+      "value": 0,
+      "desc": null
     }
   ],
   "classes": [
     {
       "id": "capitano",
       "name": "Capitano",
-      "selected": false
+      "selected": false,
+      "desc": null
     },
     {
       "id": "combattente",
       "name": "Combattente",
-      "selected": false
+      "selected": false,
+      "desc": null
     },
     {
       "id": "contrabbandiere",
       "name": "Contrabbandiere",
-      "selected": false
+      "selected": false,
+      "desc": null
     },
     {
       "id": "avventuriero",
       "name": "Avventuriero",
-      "selected": false
+      "selected": false,
+      "desc": null
     },
     {
       "id": "prete",
       "name": "Prete",
-      "selected": false
+      "selected": false,
+      "desc": null
     },
     {
       "id": "sciamano",
       "name": "Sciamano",
-      "selected": false
+      "selected": false,
+      "desc": null
     },
     {
       "id": "spia",
       "name": "Spia",
-      "selected": false
+      "selected": false,
+      "desc": null
     },
     {
       "id": "voudouista",
       "name": "Voudouista",
-      "selected": false
+      "selected": false,
+      "desc": null
     }
   ],
   "skills": [
@@ -88,253 +104,295 @@
       "id": "acrobazia",
       "name": "Acrobazia ",
       "att": "agi",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "affascinare",
       "name": "Affascinare ",
       "att": "asc",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "affinita _animale",
       "name": "Affinità Animale ",
       "att": "asc",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "armi_corte",
       "name": "Armi corte",
       "att": "mis",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "armi_da_fuoco_(fucili)",
       "name": "Armi da fuoco (Fucili)",
       "att": "bal",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "armi_da_fuoco_(pistole)",
       "name": "Armi da fuoco (Pistole)",
       "att": "bal",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "armi_da_tiro",
       "name": "Armi da tiro",
       "att": "bal",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "armi_lunghe",
       "name": "Armi lunghe",
       "att": "mis",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "armi_pesanti",
       "name": "Armi pesanti",
       "att": "mis",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "arrampicarsi",
       "name": "Arrampicarsi ",
       "att": "agi",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "autocontrollo",
       "name": "Autocontrollo",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "botanica",
       "name": "Botanica",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "cannoni",
       "name": "Cannoni",
       "att": "bal",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "carpenteria",
       "name": "Carpenteria",
       "att": "man",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "cavalcare",
       "name": "Cavalcare ",
       "att": "cos",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "empatia",
       "name": "Empatia",
       "att": "asc",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "espressione_artistica",
       "name": "Espressione artistica",
       "att": "asc",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "falsificare",
       "name": "Falsificare ",
       "att": "man",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "furtivita",
       "name": "Furtività ",
       "att": "agi",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "intimidire",
       "name": "Intimidire ",
       "att": "asc",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "lavorazione_del_metallo",
       "name": "Lavorazione del Metallo",
       "att": "man",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "leggende",
       "name": "Leggende ",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "letteratura",
       "name": "Letteratura",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "manomettere",
       "name": "Manomettere",
       "att": "man",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "medicina",
       "name": "Medicina",
       "att": "man",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "navigare",
       "name": "Navigare",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "nuotare",
       "name": "Nuotare ",
       "att": "cos",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "occultismo",
       "name": "Occultismo ",
       "att": "ani",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "percepire",
       "name": "Percepire",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "rapidita_di_mano",
       "name": "Rapidità di mano",
       "att": "man",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "resistenza",
       "name": "Resistenza",
       "att": "cos",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "rissa",
       "name": "Rissa",
       "att": "cos",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "schivare",
       "name": "Schivare ",
       "att": "agi",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "scienze",
       "name": "Scienze",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "sesto_senso",
       "name": "Sesto senso",
       "att": "ani",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "sopravvivenza",
       "name": "Sopravvivenza ",
       "att": "man",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "spiritualita",
       "name": "Spiritualità",
       "att": "ani",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "storia",
       "name": "Storia",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "storia_dell_arte",
       "name": "Storia dell'Arte",
       "att": "ego",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "torturare",
       "name": "Torturare",
       "att": "man",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "travestimento",
       "name": "Travestimento",
       "att": "asc",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     },
     {
       "id": "volonta",
       "name": "Volontà",
       "att": "ani",
-      "value ": 0
+      "value ": 0,
+      "desc": null
     }
   ],
   "talents": [
@@ -570,266 +628,304 @@
       "name": "Discendenza Importante",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "buona_sorte",
       "name": "Buona Sorte",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "patente_di_corsa",
       "name": "Patente di Corsa",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "bello",
       "name": "Bello",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "divino",
       "name": "Divino",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "irriconoscibile",
       "name": "Irriconoscibile",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "dono_del_mare",
       "name": "Dono del Mare",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "amico_animale",
       "name": "Amico Animale",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "nato_nel_triangolo",
       "name": "Nato nel Triangolo",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "cantastorie",
       "name": "Cantastorie",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "mascolino",
       "name": "Mascolino",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "tesoro",
       "name": "Tesoro",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "alleati",
       "name": "Alleati",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "aura_di_simpatia",
       "name": "Aura di Simpatia",
       "type": "gift",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "gamba_di_legno",
       "name": "Gamba di Legno",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "guercio",
       "name": "Guercio",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "marchiato",
       "name": "Marchiato",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "uncino",
       "name": "Uncino",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "lingua_mozza",
       "name": "Lingua Mozza",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "assordato",
       "name": "Assordato",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "cicatrici",
       "name": "Cicatrici",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "malformazione",
       "name": "Malformazione",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "mala_sorte",
       "name": "Mala Sorte",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "balbuziente",
       "name": "Balbuziente",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "segreto",
       "name": "Segreto",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "nato_nell_entroterra",
       "name": "Nato nell'Entroterra",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "dipendenza",
       "name": "Dipendenza",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "carattere_mutevole",
       "name": "Carattere Mutevole",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "orrido",
       "name": "Orrido",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "mostro",
       "name": "Mostro",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "bugiardo",
       "name": "Bugiardo",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "brutto_ceffo",
       "name": "Brutto Ceffo",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "infame",
       "name": "Infame",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "astemio",
       "name": "Astemio",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "effeminato",
       "name": "Effeminato",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "untore",
       "name": "Untore",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "aura_di_mestizia",
       "name": "Aura di Mestizia",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     },
     {
       "id": "spezzacuori",
       "name": "Spezzacuori",
       "type": "misf",
       "price": 100,
-      "taken": false
+      "taken": false,
+      "desc": null
     }
   ]
 }
