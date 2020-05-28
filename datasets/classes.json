@@ -1,0 +1,32 @@
+ [
+    {
+      "id": "capitano",
+      "name": "Capitano",
+      "selected": false
+    },
+    {
+      "id": "combattente",
+      "name": "Combattente",
+      "selected": false
+    },
+    {
+      "id": "contrabbandiere",
+      "name": "Contrabbandiere",
+      "selected": false
+    },
+    {
+      "id": "avventuriero",
+      "name": "Avventuriero",
+      "selected": false
+    },
+    {
+      "id": "caster",
+      "name": "Caster",
+      "selected": false
+    },
+    {
+      "id": "spia",
+      "name": "Spia",
+      "selected": false
+    }
+]
