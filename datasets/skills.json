@@ -1,205 +1,246 @@
 [
-  "acrobazia": {
+  {
+    "id": "acrobazia",
     "name": "Acrobazia ",
     "att": "agi",
     "value ": 0
   },
-  "affascinare": {
+  {
+    "id": "affascinare",
     "name": "Affascinare ",
     "att": "asc",
     "value ": 0
   },
-  "affinita _animale": {
+  {
+    "id": "affinita _animale",
     "name": "Affinità Animale ",
     "att": "asc",
     "value ": 0
   },
-  "armi_corte": {
+  {
+    "id": "armi_corte",
     "name": "Armi corte",
     "att": "mis",
     "value ": 0
   },
-  "armi_da_fuoco_(fucili)": {
+  {
+    "id": "armi_da_fuoco_(fucili)",
     "name": "Armi da fuoco (Fucili)",
     "att": "bal",
     "value ": 0
   },
-  "armi_da_fuoco_(pistole)": {
+  {
+    "id": "armi_da_fuoco_(pistole)",
     "name": "Armi da fuoco (Pistole)",
     "att": "bal",
     "value ": 0
   },
-  "armi_da_tiro": {
+  {
+    "id": "armi_da_tiro",
     "name": "Armi da tiro",
     "att": "bal",
     "value ": 0
   },
-  "armi_lunghe": {
+  {
+    "id": "armi_lunghe",
     "name": "Armi lunghe",
     "att": "mis",
     "value ": 0
   },
-  "armi_pesanti": {
+  {
+    "id": "armi_pesanti",
     "name": "Armi pesanti",
     "att": "mis",
     "value ": 0
   },
-  "arrampicarsi": {
+  {
+    "id": "arrampicarsi",
     "name": "Arrampicarsi ",
     "att": "agi",
     "value ": 0
   },
-  "autocontrollo": {
+  {
+    "id": "autocontrollo",
     "name": "Autocontrollo",
     "att": "ego",
     "value ": 0
   },
-  "botanica": {
+  {
+    "id": "botanica",
     "name": "Botanica",
     "att": "ego",
     "value ": 0
   },
-  "cannoni": {
+  {
+    "id": "cannoni",
     "name": "Cannoni",
     "att": "bal",
     "value ": 0
   },
-  "carpenteria": {
+  {
+    "id": "carpenteria",
     "name": "Carpenteria",
     "att": "man",
     "value ": 0
   },
-  "cavalcare": {
+  {
+    "id": "cavalcare",
     "name": "Cavalcare ",
     "att": "cos",
     "value ": 0
   },
-  "empatia": {
+  {
+    "id": "empatia",
     "name": "Empatia",
     "att": "asc",
     "value ": 0
   },
-  "espressione_artistica": {
+  {
+    "id": "espressione_artistica",
     "name": "Espressione artistica",
     "att": "asc",
     "value ": 0
   },
-  "falsificare": {
+  {
+    "id": "falsificare",
     "name": "Falsificare ",
     "att": "man",
     "value ": 0
   },
-  "furtivita": {
+  {
+    "id": "furtivita",
     "name": "Furtività ",
     "att": "agi",
     "value ": 0
   },
-  "intimidire": {
+  {
+    "id": "intimidire",
     "name": "Intimidire ",
     "att": "asc",
     "value ": 0
   },
-  "lavorazione_del_metallo": {
+  {
+    "id": "lavorazione_del_metallo",
     "name": "Lavorazione del Metallo",
     "att": "man",
     "value ": 0
   },
-  "leggende": {
+  {
+    "id": "leggende",
     "name": "Leggende ",
     "att": "ego",
     "value ": 0
   },
-  "letteratura": {
+  {
+    "id": "letteratura",
     "name": "Letteratura",
     "att": "ego",
     "value ": 0
   },
-  "manomettere": {
+  {
+    "id": "manomettere",
     "name": "Manomettere",
     "att": "man",
     "value ": 0
   },
-  "medicina": {
+  {
+    "id": "medicina",
     "name": "Medicina",
     "att": "man",
     "value ": 0
   },
-  "navigare": {
+  {
+    "id": "navigare",
     "name": "Navigare",
     "att": "ego",
     "value ": 0
   },
-  "nuotare": {
+  {
+    "id": "nuotare",
     "name": "Nuotare ",
     "att": "cos",
     "value ": 0
   },
-  "occultismo": {
+  {
+    "id": "occultismo",
     "name": "Occultismo ",
     "att": "ani",
     "value ": 0
   },
-  "percepire": {
+  {
+    "id": "percepire",
     "name": "Percepire",
     "att": "ego",
     "value ": 0
   },
-  "rapidita_di_mano": {
+  {
+    "id": "rapidita_di_mano",
     "name": "Rapidità di mano",
     "att": "man",
     "value ": 0
   },
-  "resistenza": {
+  {
+    "id": "resistenza",
     "name": "Resistenza",
     "att": "cos",
     "value ": 0
   },
-  "rissa": {
+  {
+    "id": "rissa",
     "name": "Rissa",
     "att": "cos",
     "value ": 0
   },
-  "schivare": {
+  {
+    "id": "schivare",
     "name": "Schivare ",
     "att": "agi",
     "value ": 0
   },
-  "scienze": {
+  {
+    "id": "scienze",
     "name": "Scienze",
     "att": "ego",
     "value ": 0
   },
-  "sesto_senso": {
+  {
+    "id": "sesto_senso",
     "name": "Sesto senso",
     "att": "ani",
     "value ": 0
   },
-  "sopravvivenza": {
+  {
+    "id": "sopravvivenza",
     "name": "Sopravvivenza ",
     "att": "man",
     "value ": 0
   },
-  "spiritualita": {
+  {
+    "id": "spiritualita",
     "name": "Spiritualità",
     "att": "ani",
     "value ": 0
   },
-  "storia_dell_arte": {
+  {
+    "id": "storia_dell_arte",
     "name": "Storia dell'Arte",
     "att": "ego",
     "value ": 0
   },
-  "torturare": {
+  {
+    "id": "torturare",
     "name": "Torturare",
     "att": "man",
     "value ": 0
   },
-  "travestimento": {
+  {
+    "id": "travestimento",
     "name": "Travestimento",
     "att": "asc",
     "value ": 0
   },
-  "volonta": {
+  {
+    "id": "volonta",
     "name": "Volontà",
     "att": "ani",
     "value ": 0
