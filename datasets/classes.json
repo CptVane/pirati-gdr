@@ -20,13 +20,23 @@
       "selected": false
     },
     {
-      "id": "caster",
-      "name": "Caster",
+      "id": "prete",
+      "name": "Prete",
+      "selected": false
+    },
+    {
+      "id": "sciamano",
+      "name": "Sciamano",
       "selected": false
     },
     {
       "id": "spia",
       "name": "Spia",
+      "selected": false
+    },
+    {
+      "id": "voudouista",
+      "name": "Voudouista",
       "selected": false
     }
 ]
