@@ -1,0 +1,202 @@
+ [
+    {
+      "id": "accanito_bevitore",
+      "name": "Accanito Bevitore ",
+      "fama": 1,
+      "price": 25,
+      "taken": false,
+      "desc": "Normalmente un personaggio deve eseguire un test in costituzione per ogni bottiglia/boccale di\nsuperalcolico bevuto, con questa capacità il personaggio è in grado di bere un numero di bottiglie/boccali\npari alla fama prima di dover eseguire un qualsiasi test."
+    },
+    {
+      "id": "ambidestria",
+      "name": "Ambidestria",
+      "fama": 1,
+      "price": 60,
+      "taken": false,
+      "desc": "Con Ambidestria il personaggio è in grado di utilizzare entrambe le mani senza alcun malus di sorta, anche\nin combattimento. Può avere due armi in mano (purchè non siano a due mani) ma deve scegliere quale \nutilizzare di volta in volta"
+    },
+    {
+      "id": "apnea",
+      "name": "Apnea",
+      "fama": 1,
+      "price": 30,
+      "taken": false,
+      "desc": "Con questa capacità il personaggio invece che testare Costituzione per ogni minuto passato in apnea inizia \ni test dopo un periodo pari alla fama prima di dover eseguire un qualsiasi test."
+    },
+    {
+      "id": "arma_da_fuoco_in_mischia",
+      "name": "Arma da Fuoco in Mischia",
+      "fama": 1,
+      "price": 30,
+      "taken": false,
+      "desc": "Permette di utilizzare pistole, moschetti, archibugi, bombarde, etc come armi da mischia senza alcun malus \ndi sorta."
+    },
+    {
+      "id": "colpo_fugace",
+      "name": "Colpo Fugace",
+      "fama": 1,
+      "price": 50,
+      "taken": false,
+      "desc": "Con questa capacità è possibile disimpegnare senza prendere attacchi di opportunità se si effettua con \nsuccesso un tiro per colpire al -3."
+    },
+    {
+      "id": "colpo_mirato",
+      "name": "Colpo Mirato",
+      "fama": 1,
+      "price": 35,
+      "taken": false,
+      "desc": "Con questa capacità il personaggio può mirare una locazione del corpo particolare diminuendo da -3 a -2 il malus dell'azione."
+    },
+    {
+      "id": "combattere_con_due_armi",
+      "name": "Combattere con Due Armi",
+      "fama": 1,
+      "price": 90,
+      "taken": false,
+      "desc": "Prerequisito: Ambidestria – Con questa capacità il personaggio può portare un attacco simultaneo con le due armi che impugna (Devono essere della stessa tipologia). Se decide di colpire con entrambe porta un attacco unico al -3 ma tira due volte il dado del danno."
+    },
+    {
+      "id": "concentrazione",
+      "name": "Concentrazione",
+      "fama": 1,
+      "price": 50,
+      "taken": false,
+      "desc": "Con questa capacità il personaggio non può essere distratto da fattori esterni durante lo svolgimento di \nun'azione complessa (Rituale, incantesimo, etc...). Inoltre se viene colpito durante il combattimento ha diritto \nad un test di Volontà per non perdere le azioni di concentrazione."
+    },
+    {
+      "id": "corridore",
+      "name": "Corridore",
+      "fama": 1,
+      "price": 25,
+      "taken": false,
+      "desc": "Corridore permette di muovere del doppio del proprio movimento se si utilizza un'azione intera.\r"
+    },
+    {
+      "id": "deflettere",
+      "name": "Deflettere",
+      "fama": 1,
+      "price": 150,
+      "taken": false,
+      "desc": "Permette di utilizzare la parata (Non funziona se disarmati) per deviare un colpo di arma da fuoco o da tiro utilizzando armi a lama."
+    },
+    {
+      "id": "disarmare",
+      "name": "Disarmare",
+      "fama": 1,
+      "price": 50,
+      "taken": false,
+      "desc": "Con questa capacità il malus del personaggio per tentare di disarmare un avversario è portato diminuendo da -6 a -3 il malus."
+    },
+    {
+      "id": "disinceppare",
+      "name": "Disinceppare",
+      "fama": 1,
+      "price": 40,
+      "taken": false,
+      "desc": "Se il risultato di un tiro per colpire con un'arma da fuoco è quello di inceppare l'arma stessa a causa di un fallimento critico il personaggio ha diritto ad un tiro in Armi da Fuoco gratuito per disinceppare l'arma (Così da non dover sprecare un'azione al turno successivo in caso di successo)."
+    },
+    {
+      "id": "doppio_attacco",
+      "name": "Doppio Attacco",
+      "fama": 1,
+      "price": 200,
+      "taken": false,
+      "desc": "Porta gli attacchi del personaggio a turno da 1 a 2.\r"
+    },
+    {
+      "id": "estrazione_rapida",
+      "name": "Estrazione Rapida",
+      "fama": 1,
+      "price": 30,
+      "taken": false,
+      "desc": "Permette di estrarre o rinfoderare gratuitamente UNA qualsiasi cosa durante la propria azione nel round di \ncombattimento."
+    },
+    {
+      "id": "furia_cieca",
+      "name": "Furia Cieca",
+      "fama": 1,
+      "price": 100,
+      "taken": false,
+      "desc": "Con questa capacità il personaggio può bruciare due punti leggenda per entrare (Una volta a Capitolo) in\nuno stato di rabbia (Utilizzabile durante il combattimento). Questo stato di rabbia dura finché la causa della \nfuria non viene abbattuta (Di norma sino alla fine di un combattimento importante). In questo stato il \npersonaggio ha un +5 in tutte le caratteristiche compreso DUELLO e MIRA."
+    },
+    {
+      "id": "galateo",
+      "name": "Galateo",
+      "fama": 1,
+      "price": 25,
+      "taken": false,
+      "desc": "Bonus di +3 ai tiri di carisma in situazioni legate all'alta società."
+    },
+    {
+      "id": "lanciatore",
+      "name": "Lanciatore",
+      "fama": 1,
+      "price": 25,
+      "taken": false,
+      "desc": "Permette di lanciare qualsiasi cosa, purchè ragionevole (Anche se non si tratta propriamente di un'arma da lancio) senza alcun malus sull'abilità di tiro."
+    },
+    {
+      "id": "mira_innaturale",
+      "name": "Mira Innaturale",
+      "fama": 1,
+      "price": 50,
+      "taken": false,
+      "desc": "Con questa capacità il personaggio per ogni turno di mira ottiene un bonus di +3 invece del consueto +2."
+    },
+    {
+      "id": "reattivo",
+      "name": "Reattivo",
+      "fama": 1,
+      "price": 30,
+      "taken": false,
+      "desc": "Questa capacità fornisce un bonus di 1 ai tiri in iniziativa ed è determinante sullo spareggio in caso di parità\ncon altri personaggi."
+    },
+    {
+      "id": "resilienza",
+      "name": "Resilienza",
+      "fama": 1,
+      "price": 40,
+      "taken": false,
+      "desc": "Aumenta il soak del personaggio di 1 (Prendibile ad ogni passaggio dispari di fama: 1,3,5,7,9)"
+    },
+    {
+      "id": "resistenza_alla_tortura",
+      "name": "Resistenza alla Tortura",
+      "fama": 1,
+      "price": 35,
+      "taken": false,
+      "desc": "vedi accanito bevitore ai tiri volontà per resistere a torturare/interrogare. (rimettere torturare come abilità)"
+    },
+    {
+      "id": "resistenza_ai_veleni",
+      "name": "Resistenza ai Veleni",
+      "fama": 1,
+      "price": 50,
+      "taken": false,
+      "desc": "vedi accanito bevitore ma a scaglioni ai tiri costituzione per resistere agli effetti di droghe o veleni."
+    },
+    {
+      "id": "ricarica_rapida",
+      "name": "Ricarica Rapida",
+      "fama": 1,
+      "price": 40,
+      "taken": false,
+      "desc": "Con questa capacità il personaggio è in grado di ricaricare un'arma da fuoco nella metà del tempo \narrotondato per difetto. (Se il tempo è inferiore ad una azione si considera azione gratuita)"
+    },
+    {
+      "id": "rissaiolo",
+      "name": "Rissaiolo",
+      "fama": 1,
+      "price": 50,
+      "taken": false,
+      "desc": "Bonus di 3 ai tiri per colpire un avversario quando si è a mani nude."
+    },
+    {
+      "id": "seduttore",
+      "name": "Seduttore",
+      "fama": 1,
+      "price": 40,
+      "taken": false,
+      "desc": "Bonus di 3 ai test di affascinare quando si parla con il sesso opposto con l'intenzione di sedurre."
+    }
+]
