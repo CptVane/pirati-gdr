@@ -307,6 +307,12 @@
       "value ": 0
     },
     {
+      "id": "storia",
+      "name": "Storia",
+      "att": "ego",
+      "value ": 0
+    },
+    {
       "id": "storia_dell_arte",
       "name": "Storia dell'Arte",
       "att": "ego",
