@@ -438,7 +438,7 @@
       "type": "generic",
       "fama": 1,
       "price": 50,
-      "taken": false,
+      "taken": true,
       "desc": "Con questa capacità è possibile disimpegnare senza prendere attacchi di opportunità se si effettua con \nsuccesso un tiro per colpire al -3."
     },
     {
