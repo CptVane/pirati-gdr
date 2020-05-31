@@ -115,7 +115,7 @@
       "desc": null
     },
     {
-      "id": "affinita _animale",
+      "id": "affinita_animale",
       "name": "Affinità Animale ",
       "att": "asc",
       "value": 0,
@@ -129,14 +129,14 @@
       "desc": null
     },
     {
-      "id": "armi_da_fuoco_(fucili)",
+      "id": "armi_da_fuoco_fucili",
       "name": "Armi da fuoco (Fucili)",
       "att": "bal",
       "value": 0,
       "desc": null
     },
     {
-      "id": "armi_da_fuoco_(pistole)",
+      "id": "armi_da_fuoco_pistole",
       "name": "Armi da fuoco (Pistole)",
       "att": "bal",
       "value": 0,
