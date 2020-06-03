@@ -4,48 +4,56 @@
       "id": "ego",
       "name": "Ego",
       "value": 0,
+      "bonus": 0,
       "desc": null
     },
     {
       "id": "man",
       "name": "Manualità",
       "value": 0,
+      "bonus": 0,
       "desc": null
     },
     {
       "id": "asc",
       "name": "Ascendente",
       "value": 0,
+      "bonus": 0,
       "desc": null
     },
     {
       "id": "cos",
       "name": "Costituzione",
       "value": 0,
+      "bonus": 0,
       "desc": null
     },
     {
       "id": "agi",
       "name": "Agilità",
       "value": 0,
+      "bonus": 0,
       "desc": null
     },
     {
       "id": "ani",
       "name": "Anima",
       "value": 0,
+      "bonus": 0,
       "desc": null
     },
     {
       "id": "bal",
       "name": "Balistica",
       "value": 0,
+      "bonus": 0,
       "desc": null
     },
     {
       "id": "mis",
       "name": "Mischia",
       "value": 0,
+      "bonus": 0,
       "desc": null
     }
   ],
