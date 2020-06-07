@@ -1,0 +1,1690 @@
+{
+    "attributes": {
+        "ego": {
+        "id": "ego",
+        "name": "Ego",
+        "value": 0,
+        "bonus": 0,
+        "desc": null
+      },
+      "man": {
+        "id": "man",
+        "name": "Manualità",
+        "value": 0,
+        "bonus": 0,
+        "desc": null
+      },
+      "asc": {
+        "id": "asc",
+        "name": "Ascendente",
+        "value": 0,
+        "bonus": 0,
+        "desc": null
+      },
+      "cos": {
+        "id": "cos",
+        "name": "Costituzione",
+        "value": 0,
+        "bonus": 0,
+        "desc": null
+      },
+      "agi": {
+        "id": "agi",
+        "name": "Agilità",
+        "value": 0,
+        "bonus": 0,
+        "desc": null
+      },
+      "ani": {
+        "id": "ani",
+        "name": "Anima",
+        "value": 0,
+        "bonus": 0,
+        "desc": null
+      },
+      "bal": {
+        "id": "bal",
+        "name": "Balistica",
+        "value": 0,
+        "bonus": 0,
+        "desc": null
+      },
+      "mis": {
+        "id": "mis",
+        "name": "Mischia",
+        "value": 0,
+        "bonus": 0,
+        "desc": null
+      }
+    },
+    "classes": {
+        "capitano": {
+        "id": "capitano",
+        "name": "Capitano",
+        "selected": false,
+        "desc": null
+      },
+      "combattente": {
+        "id": "combattente",
+        "name": "Combattente",
+        "selected": false,
+        "desc": null
+      },
+      "contrabbandiere": {
+        "id": "contrabbandiere",
+        "name": "Contrabbandiere",
+        "selected": false,
+        "desc": null
+      },
+      "avventuriero": {
+        "id": "avventuriero",
+        "name": "Avventuriero",
+        "selected": false,
+        "desc": null
+      },
+      "prete": {
+        "id": "prete",
+        "name": "Prete",
+        "selected": false,
+        "desc": null
+      },
+      "sciamano": {
+        "id": "sciamano",
+        "name": "Sciamano",
+        "selected": false,
+        "desc": null
+      },
+      "spia": {
+        "id": "spia",
+        "name": "Spia",
+        "selected": false,
+        "desc": null
+      },
+      "voudouista": {
+        "id": "voudouista",
+        "name": "Voudouista",
+        "selected": false,
+        "desc": null
+      }
+    },
+    "skills": [
+      {
+        "id": "acrobazia",
+        "name": "Acrobazia ",
+        "att": "agi",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "affascinare",
+        "name": "Affascinare ",
+        "att": "asc",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "affinita_animale",
+        "name": "Affinità Animale ",
+        "att": "asc",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "armi_corte",
+        "name": "Armi corte",
+        "att": "mis",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "armi_da_fuoco_fucili",
+        "name": "Armi da fuoco (Fucili)",
+        "att": "bal",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "armi_da_fuoco_pistole",
+        "name": "Armi da fuoco (Pistole)",
+        "att": "bal",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "armi_da_tiro",
+        "name": "Armi da tiro",
+        "att": "bal",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "armi_lunghe",
+        "name": "Armi lunghe",
+        "att": "mis",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "armi_pesanti",
+        "name": "Armi pesanti",
+        "att": "mis",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "arrampicarsi",
+        "name": "Arrampicarsi ",
+        "att": "agi",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "autocontrollo",
+        "name": "Autocontrollo",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "botanica",
+        "name": "Botanica",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "cannoni",
+        "name": "Cannoni",
+        "att": "bal",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "carpenteria",
+        "name": "Carpenteria",
+        "att": "man",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "cavalcare",
+        "name": "Cavalcare ",
+        "att": "cos",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "empatia",
+        "name": "Empatia",
+        "att": "asc",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "espressione_artistica",
+        "name": "Espressione artistica",
+        "att": "asc",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "falsificare",
+        "name": "Falsificare ",
+        "att": "man",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "furtivita",
+        "name": "Furtività ",
+        "att": "agi",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "intimidire",
+        "name": "Intimidire ",
+        "att": "asc",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "lavorazione_del_metallo",
+        "name": "Lavorazione del Metallo",
+        "att": "man",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "leggende",
+        "name": "Leggende ",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "letteratura",
+        "name": "Letteratura",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "manomettere",
+        "name": "Manomettere",
+        "att": "man",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "medicina",
+        "name": "Medicina",
+        "att": "man",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "navigare",
+        "name": "Navigare",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "nuotare",
+        "name": "Nuotare ",
+        "att": "cos",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "occultismo",
+        "name": "Occultismo ",
+        "att": "ani",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "percepire",
+        "name": "Percepire",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "rapidita_di_mano",
+        "name": "Rapidità di mano",
+        "att": "man",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "resistenza",
+        "name": "Resistenza",
+        "att": "cos",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "rissa",
+        "name": "Rissa",
+        "att": "cos",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "schivare",
+        "name": "Schivare ",
+        "att": "agi",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "scienze",
+        "name": "Scienze",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "sesto_senso",
+        "name": "Sesto senso",
+        "att": "ani",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "sopravvivenza",
+        "name": "Sopravvivenza ",
+        "att": "man",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "spiritualita",
+        "name": "Spiritualità",
+        "att": "ani",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "storia",
+        "name": "Storia",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "storia_dell_arte",
+        "name": "Storia dell'Arte",
+        "att": "ego",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "torturare",
+        "name": "Torturare",
+        "att": "man",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "travestimento",
+        "name": "Travestimento",
+        "att": "asc",
+        "value": 0,
+        "desc": null
+      },
+      {
+        "id": "volonta",
+        "name": "Volontà",
+        "att": "ani",
+        "value": 0,
+        "desc": null
+      }
+    ],
+    "talents": [
+      {
+        "id": "accanito_bevitore",
+        "name": "Accanito Bevitore ",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 25,
+        "taken": false,
+        "desc": "Normalmente un personaggio deve eseguire un test in costituzione per ogni bottiglia/boccale di\nsuperalcolico bevuto, con questa capacità il personaggio è in grado di bere un numero di bottiglie/boccali\npari alla fama prima di dover eseguire un qualsiasi test."
+      },
+      {
+        "id": "alter_ego",
+        "name": "Alter ego",
+        "type": [
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "ambidestria",
+        "name": "Ambidestria",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 60,
+        "taken": false,
+        "desc": "Con Ambidestria il personaggio è in grado di utilizzare entrambe le mani senza alcun malus di sorta, anche\nin combattimento. Può avere due armi in mano (purchè non siano a due mani) ma deve scegliere quale \nutilizzare di volta in volta"
+      },
+      {
+        "id": "angelo_guardiano",
+        "name": "Angelo guardiano",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "apnea",
+        "name": "Apnea",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 30,
+        "taken": false,
+        "desc": "Con questa capacità il personaggio invece che testare Costituzione per ogni minuto passato in apnea inizia \ni test dopo un periodo pari alla fama prima di dover eseguire un qualsiasi test."
+      },
+      {
+        "id": "arma_da_fuoco_in_mischia",
+        "name": "Arma da Fuoco in Mischia",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 30,
+        "taken": false,
+        "desc": "Permette di utilizzare pistole, moschetti, archibugi, bombarde, etc come armi da mischia senza alcun malus \ndi sorta."
+      },
+      {
+        "id": "ayahuasca",
+        "name": "Ayahuasca",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "bagliore_del_firmamento",
+        "name": "Bagliore del Firmamento",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "bambole_voodoo",
+        "name": "Bambole Voodoo",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "brutto_ceffo",
+        "name": "Brutto ceffo",
+        "type": [
+          "contrabbandiere"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "buona_sorte",
+        "name": "Buona Sorte",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "canto_di_maria",
+        "name": "Canto di Maria",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "colpo_fugace",
+        "name": "Colpo Fugace",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": "Con questa capacità è possibile disimpegnare senza prendere attacchi di opportunità se si effettua con \nsuccesso un tiro per colpire al -3."
+      },
+      {
+        "id": "colpo_furtivo",
+        "name": "Colpo Furtivo",
+        "type": [
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "colpo_mirato",
+        "name": "Colpo Mirato",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 35,
+        "taken": false,
+        "desc": "Con questa capacità il personaggio può mirare una locazione del corpo particolare diminuendo da -3 a -2 il malus dell'azione."
+      },
+      {
+        "id": "combattere_al_buio",
+        "name": "Combattere al Buio",
+        "type": [
+          "combattente",
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "combattere_con_due_armi",
+        "name": "Combattere con Due Armi",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 90,
+        "taken": false,
+        "desc": "Prerequisito: Ambidestria – Con questa capacità il personaggio può portare un attacco simultaneo con le due armi che impugna (Devono essere della stessa tipologia). Se decide di colpire con entrambe porta un attacco unico al -3 ma tira due volte il dado del danno."
+      },
+      {
+        "id": "combattimento_scorretto",
+        "name": "Combattimento Scorretto",
+        "type": [
+          "combattente"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "concentrazione",
+        "name": "Concentrazione",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": "Con questa capacità il personaggio non può essere distratto da fattori esterni durante lo svolgimento di \nun'azione complessa (Rituale, incantesimo, etc...). Inoltre se viene colpito durante il combattimento ha diritto \nad un test di Volontà per non perdere le azioni di concentrazione."
+      },
+      {
+        "id": "confusione_paralizzante",
+        "name": "Confusione paralizzante",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "conoscenze",
+        "name": "Conoscenze",
+        "type": [
+          "contrabbandiere"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "conoscenze_strada",
+        "name": "Conoscenze strada",
+        "type": [
+          "contrabbandiere"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "corridore",
+        "name": "Corridore",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 25,
+        "taken": false,
+        "desc": "Corridore permette di muovere del doppio del proprio movimento se si utilizza un'azione intera.\r"
+      },
+      {
+        "id": "decifrare",
+        "name": "Decifrare",
+        "type": [
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "decomposizione",
+        "name": "Decomposizione",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "deflettere",
+        "name": "Deflettere",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 150,
+        "taken": false,
+        "desc": "Permette di utilizzare la parata (Non funziona se disarmati) per deviare un colpo di arma da fuoco o da tiro utilizzando armi a lama."
+      },
+      {
+        "id": "depistare",
+        "name": "Depistare",
+        "type": [
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "disarmare",
+        "name": "Disarmare",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": "Con questa capacità il malus del personaggio per tentare di disarmare un avversario è portato diminuendo da -6 a -3 il malus."
+      },
+      {
+        "id": "disinceppare",
+        "name": "Disinceppare",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 40,
+        "taken": false,
+        "desc": "Se il risultato di un tiro per colpire con un'arma da fuoco è quello di inceppare l'arma stessa a causa di un fallimento critico il personaggio ha diritto ad un tiro in Armi da Fuoco gratuito per disinceppare l'arma (Così da non dover sprecare un'azione al turno successivo in caso di successo)."
+      },
+      {
+        "id": "dominazione",
+        "name": "Dominazione",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "dominio_sugli_animali",
+        "name": "Dominio sugli animali",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "doppio_attacco",
+        "name": "Doppio Attacco",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 200,
+        "taken": false,
+        "desc": "Porta gli attacchi del personaggio a turno da 1 a 2.\r"
+      },
+      {
+        "id": "duello",
+        "name": "Duello",
+        "type": [
+          "combattente"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "estrazione_rapida",
+        "name": "Estrazione Rapida",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 30,
+        "taken": false,
+        "desc": "Permette di estrarre o rinfoderare gratuitamente UNA qualsiasi cosa durante la propria azione nel round di \ncombattimento."
+      },
+      {
+        "id": "faccia_da_schiaffi",
+        "name": "Faccia da schiaffi",
+        "type": [
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "fare_brutto_ad_area",
+        "name": "Fare Brutto ad Area",
+        "type": [
+          "combattente"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "forma_terrificante",
+        "name": "Forma Terrificante",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "furia_cieca",
+        "name": "Furia Cieca",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 100,
+        "taken": false,
+        "desc": "Con questa capacità il personaggio può bruciare due punti leggenda per entrare (Una volta a Capitolo) in\nuno stato di rabbia (Utilizzabile durante il combattimento). Questo stato di rabbia dura finché la causa della \nfuria non viene abbattuta (Di norma sino alla fine di un combattimento importante). In questo stato il \npersonaggio ha un +5 in tutte le caratteristiche compreso DUELLO e MIRA."
+      },
+      {
+        "id": "galateo",
+        "name": "Galateo",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 25,
+        "taken": false,
+        "desc": "Bonus di +3 ai tiri di carisma in situazioni legate all'alta società."
+      },
+      {
+        "id": "impavido",
+        "name": "Impavido",
+        "type": [
+          "combattente"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "impeto_in_carica",
+        "name": "Impeto in Carica",
+        "type": [
+          "combattente"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "incubo",
+        "name": "Incubo",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "informazioni",
+        "name": "Informazioni",
+        "type": [
+          "contrabbandiere",
+          "avventuriero",
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "iniziativa_migliorata",
+        "name": "Iniziativa Migliorata",
+        "type": [
+          "combattente",
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "interrogare_spiriti_cose",
+        "name": "Interrogare spiriti (cose)",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "intrugli",
+        "name": "Intrugli",
+        "type": [
+          "sciamano",
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "istinto_del_sopravvissuto",
+        "name": "Istinto del sopravvissuto",
+        "type": [
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "lanciatore",
+        "name": "Lanciatore",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 25,
+        "taken": false,
+        "desc": "Permette di lanciare qualsiasi cosa, purchè ragionevole (Anche se non si tratta propriamente di un'arma da lancio) senza alcun malus sull'abilità di tiro."
+      },
+      {
+        "id": "leggere_le_ossa",
+        "name": "Leggere le Ossa",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "luna_1_di_scion",
+        "name": "Luna 1 di scion",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "makumba",
+        "name": "Makumba",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "martirio",
+        "name": "Martirio",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "maschera_d_ombra",
+        "name": "Maschera d'ombra",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "mira_innaturale",
+        "name": "Mira Innaturale",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": "Con questa capacità il personaggio per ogni turno di mira ottiene un bonus di +3 invece del consueto +2."
+      },
+      {
+        "id": "mischia",
+        "name": "Mischia",
+        "type": [
+          "combattente",
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "morfologia",
+        "name": "Morfologia",
+        "type": [
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "movenze_del_gatto",
+        "name": "Movenze del Gatto",
+        "type": [
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "nido_del_calabrone",
+        "name": "Nido del calabrone",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "occhio_del_ciclone",
+        "name": "Occhio del ciclone",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "occhio_esperto",
+        "name": "Occhio Esperto",
+        "type": [
+          "contrabbandiere",
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "parlantina",
+        "name": "Parlantina",
+        "type": [
+          "contrabbandiere",
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "parlare_con_gli_animali",
+        "name": "Parlare con gli Animali",
+        "type": [
+          "voudouista"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "piede_veloce",
+        "name": "Piede veloce",
+        "type": [
+          "spia"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "poliglotta",
+        "name": "Poliglotta",
+        "type": [
+          "contrabbandiere"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "presagio",
+        "name": "Presagio",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "protezione_dalla_terra",
+        "name": "Protezione della terra",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "pugile",
+        "name": "Pugile",
+        "type": [
+          "generic"
+        ],
+        "fama": 2,
+        "price": 50,
+        "taken": false,
+        "desc": "Prerequisito: Rissaiolo – Quando colpisci un bersaglio a mani nude tira due dadi di danno e scegli il migliore."
+      },
+      {
+        "id": "punizione_divina",
+        "name": "Punizione Divina",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "reattivo",
+        "name": "Reattivo",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 30,
+        "taken": false,
+        "desc": "Questa capacità fornisce un bonus di 1 ai tiri in iniziativa ed è determinante sullo spareggio in caso di parità\ncon altri personaggi."
+      },
+      {
+        "id": "reputazione",
+        "name": "Reputazione",
+        "type": [
+          "contrabbandiere"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "resilienza",
+        "name": "Resilienza",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 40,
+        "taken": false,
+        "desc": "Aumenta il soak del personaggio di 1 (Prendibile ad ogni passaggio dispari di fama: 1,3,5,7,9)"
+      },
+      {
+        "id": "resistenza_ai_veleni",
+        "name": "Resistenza ai veleni",
+        "type": [
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "resistenza_alla_tortura",
+        "name": "Resistenza alla Tortura",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 35,
+        "taken": false,
+        "desc": "vedi accanito bevitore ai tiri volontà per resistere a torturare/interrogare. (rimettere torturare come abilità)"
+      },
+      {
+        "id": "rialzarsi",
+        "name": "Rialzarsi",
+        "type": [
+          "combattente"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "ricarica_rapida",
+        "name": "Ricarica Rapida",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 40,
+        "taken": false,
+        "desc": "Con questa capacità il personaggio è in grado di ricaricare un'arma da fuoco nella metà del tempo \narrotondato per difetto. (Se il tempo è inferiore ad una azione si considera azione gratuita)"
+      },
+      {
+        "id": "rifugio_dell_ombra",
+        "name": "Rifugio dell'ombra",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "rimuovere_maledizioni",
+        "name": "Rimuovere Maledizioni",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "risorse",
+        "name": "Risorse",
+        "type": [
+          "contrabbandiere"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "rissaiolo",
+        "name": "Rissaiolo",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": "Bonus di 3 ai tiri per colpire un avversario quando si è a mani nude."
+      },
+      {
+        "id": "scacciare_non_morti",
+        "name": "Scacciare Non-Morti",
+        "type": [
+          "prete"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "seduttore",
+        "name": "Seduttore",
+        "type": [
+          "generic"
+        ],
+        "fama": 1,
+        "price": 40,
+        "taken": false,
+        "desc": "Bonus di 3 ai test di affascinare quando si parla con il sesso opposto con l'intenzione di sedurre."
+      },
+      {
+        "id": "senso_del_pericolo",
+        "name": "Senso del Pericolo",
+        "type": [
+          "combattente"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "sette_vite",
+        "name": "Sette Vite",
+        "type": [
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "sgamabanfe",
+        "name": "Sgamabanfe",
+        "type": [
+          "contrabbandiere"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "soccare_trappole",
+        "name": "Soccare trappole",
+        "type": [
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "sonno_leggero",
+        "name": "Sonno leggero",
+        "type": [
+          "avventuriero"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "specialista",
+        "name": "Specialista dell'Arma",
+        "type": [
+          "generic"
+        ],
+        "fama": 2,
+        "price": 50,
+        "taken": false,
+        "desc": "Specialista è prendibile per tutti i tipi di armi senza alcuna restrizione. Il personaggio ottiene un bonus di\n+10 ai tiri per colpire quando impugna una delle armi in cui è specialista."
+      },
+      {
+        "id": "viaggio_nei_sogni",
+        "name": "Viaggio nei sogni",
+        "type": [
+          "sciamano"
+        ],
+        "fama": 1,
+        "price": 50,
+        "taken": false,
+        "desc": null
+      }
+    ],
+    "ds": [
+      {
+        "id": "discendenza_importante",
+        "name": "Discendenza Importante",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "buona_sorte",
+        "name": "Buona Sorte",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "patente_di_corsa",
+        "name": "Patente di Corsa",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "bello",
+        "name": "Bello",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "divino",
+        "name": "Divino",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "irriconoscibile",
+        "name": "Irriconoscibile",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "dono_del_mare",
+        "name": "Dono del Mare",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "amico_animale",
+        "name": "Amico Animale",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "nato_nel_triangolo",
+        "name": "Nato nel Triangolo",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "cantastorie",
+        "name": "Cantastorie",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "mascolino",
+        "name": "Mascolino",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "tesoro",
+        "name": "Tesoro",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "alleati",
+        "name": "Alleati",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "aura_di_simpatia",
+        "name": "Aura di Simpatia",
+        "type": "gift",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "gamba_di_legno",
+        "name": "Gamba di Legno",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "guercio",
+        "name": "Guercio",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "marchiato",
+        "name": "Marchiato",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "uncino",
+        "name": "Uncino",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "lingua_mozza",
+        "name": "Lingua Mozza",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "assordato",
+        "name": "Assordato",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "cicatrici",
+        "name": "Cicatrici",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "malformazione",
+        "name": "Malformazione",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "mala_sorte",
+        "name": "Mala Sorte",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "balbuziente",
+        "name": "Balbuziente",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "segreto",
+        "name": "Segreto",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "nato_nell_entroterra",
+        "name": "Nato nell'Entroterra",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "dipendenza",
+        "name": "Dipendenza",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "carattere_mutevole",
+        "name": "Carattere Mutevole",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "orrido",
+        "name": "Orrido",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "mostro",
+        "name": "Mostro",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "bugiardo",
+        "name": "Bugiardo",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "brutto_ceffo",
+        "name": "Brutto Ceffo",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "infame",
+        "name": "Infame",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "astemio",
+        "name": "Astemio",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "effeminato",
+        "name": "Effeminato",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "untore",
+        "name": "Untore",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "aura_di_mestizia",
+        "name": "Aura di Mestizia",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      },
+      {
+        "id": "spezzacuori",
+        "name": "Spezzacuori",
+        "type": "misf",
+        "price": 100,
+        "taken": false,
+        "desc": null
+      }
+    ]
+  }
